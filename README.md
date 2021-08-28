@@ -5,6 +5,11 @@
 
 ### Blog posts
 <!-- YOUTUBE:START -->
+- [CSS Sizing - ERBOL TUKASHOV # 11](https://www.youtube.com/watch?v=027axPU1JKk)
+- [The Dark Art of Centering Elements with CSS --- Absolute Positioning - ZHUMAGUL ONOROVA # 8](https://www.youtube.com/watch?v=WV48lE1N608)
+- [Absolute Positioning --- The Dark Art of Centering Elements with CSS - ZHUMAGUL ONOROVA - # 7](https://www.youtube.com/watch?v=81jiP9RQ1fw)
+- [CSS Static and Relative Positioning - NURTAZIM DJANYSHBEKOV # 6](https://www.youtube.com/watch?v=pqw0E7VqwrQ)
+- [HTML Divs - MEERIM ABDYRHMAN # 3](https://www.youtube.com/watch?v=1ZEwxtlDG0E)
 <!-- YOUTUBE:END -->
 
 ### Биздин социалдык тармактар👇

@@ -5,11 +5,11 @@
 
 ### Биздин жаныланган видеолор👇
 <!-- YOUTUBE:START -->
-- [CSS Sizing - ERBOL TUKASHOV # 11](https://www.youtube.com/watch?v=027axPU1JKk)
-- [The Dark Art of Centering Elements with CSS --- Absolute Positioning - ZHUMAGUL ONOROVA # 8](https://www.youtube.com/watch?v=WV48lE1N608)
-- [Absolute Positioning --- The Dark Art of Centering Elements with CSS - ZHUMAGUL ONOROVA - # 7](https://www.youtube.com/watch?v=81jiP9RQ1fw)
-- [CSS Static and Relative Positioning - NURTAZIM DJANYSHBEKOV # 6](https://www.youtube.com/watch?v=pqw0E7VqwrQ)
-- [HTML Divs - MEERIM ABDYRHMAN # 3](https://www.youtube.com/watch?v=1ZEwxtlDG0E)
+- [SECTiON BOOTSTRAP #6 - Solution to Bootstrap Challenge 1 -- Bright Brains - DIANA](https://www.youtube.com/watch?v=Cb79RQZ7k5M)
+- [SECTiON BOOTSTRAP #6 - Styling Our Website Challenges and Solutions -- YNTYMAK - Gulzina](https://www.youtube.com/watch?v=p0A-pAWcRUQ)
+- [SECTiON BOOTSTRAP #6 - Bootstrap Containers -- YNTYMAK - Zhumagul Onorova](https://www.youtube.com/watch?v=bO3igUbOCxY)
+- [SECTiON BOOTSTRAP #6 - Bootstrap Grid Layout System -- YNTYMAK - Nurtazim Janyshbekov](https://www.youtube.com/watch?v=Nd1ej4YsOI8)
+- [SECTiON BOOTSTRAP #6 - Setting up Our New Project -- YNTYMAK - ASEL](https://www.youtube.com/watch?v=wlEpe1OB-iE)
 <!-- YOUTUBE:END -->
 
 ### Биздин социалдык тармактар👇

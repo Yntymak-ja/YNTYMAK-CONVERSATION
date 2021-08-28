@@ -4,8 +4,8 @@
 <br>
 
 ## Blog Post
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- youtube:START -->
+<!-- youtube:END -->
 
 ### Биздин социалдык тармактар👇
 [<img width="30px" src="assets/instagram.svg">](https://www.instagram.com/yntymak.ja/)

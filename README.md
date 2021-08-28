@@ -3,7 +3,7 @@
 
 <br>
 
-## Блог посту
+## Blog Post
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 

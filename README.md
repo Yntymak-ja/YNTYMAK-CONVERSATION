@@ -1,12 +1,12 @@
 ## YNTYMAK-CONVERSATION
 ### **Бул жакта биздин баардык маалыматтар камтылган жана ошондой эле идеалар сүйлөшүүлөр жана суроо жооптор!**
 
-> [<img src="assets/giflogo.gif">]()
->
+[<img src="assets/giflogo.gif">]()
+<!-- >
 >[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yntymak-ja)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/yntymak.ja//)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://satin-beast-2c9.notion.site/YNTYMAK-cd568a64f5b6411f886cb9ff00079e9e)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCRtFBHRQid5zQlilPWvjGQg) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCRtFBHRQid5zQlilPWvjGQg)  -->
 
 <br>
 
